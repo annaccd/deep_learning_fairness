@@ -1,6 +1,6 @@
 # What is the gender of a data scientist? Addressing bias in Natural Language Processing.
 
-Repo for the Deep Learning tutorial. The course was thaught by Prof. Lynn Kaack and Florian Nachtigall during the winter semester 2022. It s part of the Master's of Data Science for Public Policy at the [Hertie School of Governance](https://www.hertie-school.org/en/mds) in Berlin. 
+Repo for the Deep Learning tutorial. The course was thaught by Prof. Lynn Kaack and Florian Nachtigall during the winter semester 2022. It is part of the curriculum of the Master's of Data Science for Public Policy at the [Hertie School of Governance](https://www.hertie-school.org/en/mds) in Berlin. 
 
 ### 1.  Names of all group members
 
