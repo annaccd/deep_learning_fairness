@@ -34,7 +34,7 @@ Algorithms and models are used to substitute humans in several processes, includ
 ### 5. Further resources 
 Further resources such as videos and readings to gain familiarity with the topic can be found in part 3 of the notebook. All references are listed in section 8. We are thankful for all the work which has been done on the topic and we had the opportunity to learn from. We hope the tutorial will be useful and clear. 
 
-### 5. Link for video tutorial on youtube
+### 6. Link for video tutorial on youtube
 https://youtu.be/B9_OlIDKfc0
 
 Enjoy! 
